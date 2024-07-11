@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.label{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+#countLabel{
+    font-weight: bold;
+    font-size: 30px;
+}
+
